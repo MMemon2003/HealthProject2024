@@ -9,7 +9,11 @@ The GP Monitoring System is a virtual health device that utilizes health sensors
 
 **Wifi Components List:**
 DS18B20 - Temperature sensor 
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/5ac82613-8d46-47ff-b28e-de3d45d19be4)
+
 Sen0203 - Heart rate sensor 
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/b3565a77-b727-44c1-9dfe-b3867714462a)
+
 
 **Bluetooth Components list:**
 SBM70 Blood Pressure Unit
@@ -26,6 +30,9 @@ Microsoft Azure
 
 **Microcontrollers:**
 ESP8266 - NodeMCU
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/9a1e536f-69bb-4ccf-8bd4-e8601d954761)
+
+
 
 
 
