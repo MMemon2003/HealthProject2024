@@ -1,0 +1,235 @@
+## CSS file, this makes all the styling in the websites 
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styles */
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: #333; /* Dark grey background */
+  color: #fff;
+  position: relative;
+}
+
+.header h1 {
+  font-size: 24px; /* Font size for header title */
+}
+
+ .header-logo {
+      max-width: 40px; /* Adjust the maximum width as needed */
+      margin-right: 10px; /* Add some margin to the right of the logo */
+    }
+
+.header-image:first-child {
+  left: 20px;
+}
+
+.header-image:last-child {
+  right: 20px;
+}
+
+/* Main Content Styles */
+.main-content {
+  margin-top: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto; /* Center the container horizontally */
+  background-color: #fff; /* White background */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
+
+.container h2 {
+  font-size: 20px; /* Font size for main heading */
+}
+
+/* Footer Styles */
+.footer {
+    padding: 50px 0; /* Adjust padding as needed */
+}
+
+.footer-content {
+    padding-right: 20px; /* Adjust spacing between content and map */
+}
+
+.map-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%; /* Aspect ratio 16:9 (height:width) for responsive iframe */
+}
+
+.map-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.footer-content p,
+.footer-content ul {
+    color: #000; /* Set text color to black */
+    margin-bottom: 10px; /* Add some spacing between elements */
+}
+
+
+
+/* Page Specific Styles */
+.page {
+  display: none;
+}
+
+.page.active {
+  display: block;
+}
+
+/* Box Styles */
+.box-full {
+  max-width: 400px;
+  max-height: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  margin: auto; /* Center the box horizontally */
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.3); /* Transparent grey box */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust height as needed */
+}
+
+/* Adjustments for welcome page */
+#welcome-page .box-full {
+  max-height: 500px;
+}
+
+/* Adjustments for login page */
+#login-page .box-login-full {
+  max-height: 300px;
+}
+
+/* Adjustments for create account page */
+#create-account-page .box-create-account-full {
+  max-height: 300px;
+}
+
+/* Adjustments for sensor readings page */
+#sensor-readings-page .box-sensor-full {
+  max-height: 500px;
+}
+
+/* Additional Styles */
+.overlay {
+  position: relative;
+}
+
+.overlay-content {
+  padding: 20px;
+}
+
+.overlay h2,
+.overlay h3,
+.overlay p,
+.overlay label {
+  margin: 10px 0;
+}
+
+.gif-container {
+  position: relative;
+  width: 100%;
+  max-height: 1000px; /* Set max-height to constrain the image */
+  overflow: hidden; /* Hide any overflow beyond the container */
+  text-align: center;
+  margin-bottom: 150px; /* Adjust margin as needed */
+}
+
+.image {
+  width: 100%;
+  height: auto; /* Ensure the image maintains its aspect ratio */
+}
+
+.image-large {
+  max-width: 100%;
+  height: auto; /* Ensure the image maintains its aspect ratio */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333333; /* Change button color as needed */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #D3D3D3; /* Change hover color as needed */
+}
+.box {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.box h2 {
+    margin-top: 0;
+}
+
+.box p {
+    margin-bottom: 0;
+}
+ .report-box {
+            background-color: rgba(0, 0, 0, 0.1); /* Transparent grey */
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+   #patientForm, #doctorForm {
+            display: none;
+        }
+.white-button {
+            background-color: white;
+            color: black;
+            border: 1px solid black;
+            border-radius: 5px;
+            padding: 10px 20px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        .white-button:hover {
+            background-color: #f0f0f0;
+        }
+
+.header {
+    padding: 15px 0; /* Adjust padding as needed */
+}
+
+.header-image {
+    height: 40px; /* Adjust height as needed */
+}
