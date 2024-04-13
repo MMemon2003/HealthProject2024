@@ -1,11 +1,4 @@
 
-
-DS18B20 Temperature sensor Tasmota connection
-
-![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/2bbc97e4-940c-43a0-9af6-3a457253f26c)
-
-
-
 Breadboard connection for temperature sensor and ESP8266
 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/c2be7bdc-d285-40b0-b92e-f3d3e1951692)
