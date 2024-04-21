@@ -16,6 +16,6 @@ The databases that i will be using is the SQL server. This database allows users
 ## Security
 The security around this project, The HTML Websites will be secured by a login of the Patients or Doctor's ID and password and match the database infromation, if all goes well the HTML websites will be ready to opearte. 
 ## Report
-The Proposal Report is completelly and ready for presentation but whereas the final report is still need to be done which i will worrking on and upload it by the end of next week.
+The Proposal Report is completelly and ready for presentation but whereas the actual reprort is in progress.
 ## Presentation
 The presentation for my project is under progress. 
