@@ -14,7 +14,7 @@ The software left in this project is to connect tasmota,databases and the HTML w
 ## Database
 The databases that i will be using is the SQL server. This database allows users and GP or Doctors to search previous or current data heallth information for the patient. It will be sending data from NodeRED and HTML Websites. 
 ## Security
-The security around this project, The HTML Websites will be secured by a login of the Patients or Doctor's ID and password and match the database infromation, if all goes well the HTML websites will be ready to opearte. 
+The security around this project, The HTML Websites will be secured by a login of the Patients or Doctor's ID and password and match the database infromation, if all goes well the HTML websites will be ready to opearte. ## Done 
 ## Report
 The Proposal Report is completelly and ready for presentation but whereas the actual reprort is in progress.
 ## Presentation
