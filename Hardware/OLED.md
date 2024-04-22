@@ -3,7 +3,7 @@
 ## Pinouts
 The image in figure 1 is the Pinout for the OLED Screen used in this project. 
 
-![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/00637161-fc09-4ba4-ad84-bca4a15db58
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/38d4bcc5-563b-467e-be62-52273a76a6ef)
 It has 7 pin(VCC(5V), GND(Connected to ESP8266), SCL(also known as SCK), SDA(also known as MOSI), RST(Reset pin), DC).
 Figure 1
 
