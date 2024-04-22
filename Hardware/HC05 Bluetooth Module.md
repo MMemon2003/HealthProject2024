@@ -4,6 +4,7 @@
 The Pinout of the HC05 Bluetooth Module 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/b3d27681-8b2b-4d21-b2f1-11ff1d07f555)
 
+
 ## Connect the HC-05 module to the ESP8266 as follows:
 HC-05 TX (Transmit) to ESP8266 TX (Transmit) pin.
 HC-05 RX (Receivor) to ESP8266 RX (Receive) pin.
