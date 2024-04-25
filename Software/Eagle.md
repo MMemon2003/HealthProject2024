@@ -10,12 +10,12 @@ The software used to make the Schamtic and the Board, in other other terms, the 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/40efdbb5-52db-4307-967d-db1809284f0e)
 
 ## Libraries used in the PCB 
-Project.lbr
+Project.lbr,
 ProjectParts.lbr
 ## SnapEDA
 ## This is a electronics design data that provides PCB footprints and schematic symbols.
 ## Libraries downloaded from SnapEDA
-_nodemcu_esp8266.lbr
+_nodemcu_esp8266.lbr,
 DS18B20_lbr
 
 ## Connections of the SEN0203 and LCD 
