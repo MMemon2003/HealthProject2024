@@ -12,7 +12,6 @@ DS18B20 - Temperature sensor
 
 Sen0203 - Heart rate sensor 
 
-
 **Bluetooth Components list:**
 SBM70 Blood Pressure Unit
 
@@ -29,7 +28,14 @@ Microsoft Azure
 **Microcontrollers:**
 ESP8266 - NodeMCU
 
+## Resources to access the website 
+QR Code:
 
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/961ef2de-bec5-458f-a1dc-7a6230d6f388)
+
+Link:
+
+https://gp-virtual-monitoting-system.netlify.app/
 
 # Status Report.
 Mark Deegan has seen this far.
