@@ -12,6 +12,7 @@ The OLED Screen operates with a range of 3.0V to 5V, in this project it will fun
 
 ## Breadbaord connection
 The breadbaord connection of the DS18B20 and the ESP8266 is seen in figure 2. 
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/49f67347-3ed1-4c20-8a73-a055d2a49e3a)
 
 Figure 2
 
