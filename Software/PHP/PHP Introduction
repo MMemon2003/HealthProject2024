@@ -1,0 +1,18 @@
+## PHP Servers
+A PHP server is a web server that provides a platform for running PHP applications.It is used in receiving HTTP requests from clients, interpreting them, and returning responses.
+
+## Use of it in this project
+The PHP servers will be used in two ways for the GP Virtual System Project,
+The first used of the PHP server in this project, is connecting the SQL Database to the HTTP html operated website accessed from the,
+it will be operated in such a way that each time, a user enters the details for login, each time, the database will check it, if the patient is registered, then the next page will be opened. 
+
+The patient_login php code.
+The php code reads the mySQL database, it reads the registered patients database and then at the html website, it sets up the htmll wwebsite so whenever the registered patients are entered in the login details, the website naviagtes to the next website.html otherwwise it says an error message showing the details and a text saying please, register yourself.
+
+The doctor_login php code
+The php code reads the mySQL database, it reads the registered doctors database and then at the html website, it sets up the htmll wwebsite so whenever the registered doctors are entered in the login details, the website naviagtes to the next website.html otherwwise it says an error message showing the details and a text saying please, register yourself.
+
+Code for patient_login.php
+Look at the software folder, for the patient_login.php code
+Code for doctor_login.php
+Look at the software folder, for the doctor_login.php code
