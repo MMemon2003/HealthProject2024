@@ -29,13 +29,12 @@ Microsoft Azure
 ESP8266 - NodeMCU
 
 **Resources to access the website**
-QR Code:
+Using Xammp, 
+-> Link for website on the web server of a laptop 
+localhost/project/index.html 
 
-![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/961ef2de-bec5-458f-a1dc-7a6230d6f388)
-
-Link:
-
-https://gp-virtual-monitoting-system.netlify.app/
+-> Link  for website on the web server of a smartphone 
+192.168.43.233/project
 
 # Status Report.
 Mark Deegan has seen this far.
