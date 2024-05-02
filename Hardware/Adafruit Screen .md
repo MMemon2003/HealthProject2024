@@ -1,4 +1,4 @@
-## OLED 
+## Adafruit Screen
 
 ## Pinouts
 The image in figure 1 is the Pinout for the OLED Screen used in this project. 
