@@ -5,6 +5,7 @@ It helps you create and test web applications before they are deployed by enabli
 ## Use of it in the project
 In this project, it is used to connect the MYSQL server database to the local host. 
 
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/c7ec7622-d083-4c4d-b857-3ab11eb65854)
 
 
 
