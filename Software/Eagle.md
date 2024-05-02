@@ -1,8 +1,7 @@
 ## Eagle 
-## is a electronic design automation(EDA) that lets to make the Printed Circuit Board(PCB) that connects schematic diagrams,PCB routing and comprehensive library content. 
+Eagle is an electronic design automation (EDA) that makes the Printed Circuit Board(PCB) that connects schematic diagrams routing and comprehensive library content.
 
 ## Schematic file 
-The software used to make the Schamtic and the Board, in other other terms, the software used to make the PCB is Eagle. 
 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/4ec3e7d6-1d03-4f78-bd19-e8e99ab38af2)
 
