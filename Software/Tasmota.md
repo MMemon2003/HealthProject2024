@@ -33,6 +33,7 @@ Figure 13 – Available networks Wi-Fi connection for tasmota
 7)	Wait for it, once an IP address shows, note it down as it will be the IP address to use tasmota each time with Node MCU(ESP8266). IP address used for tasmota: http://192.168.43.210. 
 
 
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/45a8044d-f58c-4846-ba97-e09ebeb4a3b5)
 
 
 Figure 15: Successful IP address connection to access Tasmota 
