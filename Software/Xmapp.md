@@ -4,6 +4,12 @@ It helps you create and test web applications before they are deployed by enabli
 
 ## Use of it in the project
 In this project, it is used to connect the MYSQL server database to the local host. 
+With the help of Xampp, the project was able to use a local host to access the website and connect to the MYSQL server. 
+-> Link for website on the web server of a laptop 
+localhost/project/index.html
+-> Link for website on the web server of a smartphone 
+192.168.43.233/project
+
 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/c7ec7622-d083-4c4d-b857-3ab11eb65854)
 
