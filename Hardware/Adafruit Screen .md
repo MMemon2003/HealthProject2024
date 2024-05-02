@@ -8,7 +8,7 @@ The image in figure 1 is the Pinout for the OLED Screen used in this project.
 It has 7 pin(VCC(5V), GND(Connected to ESP8266), SCL(also known as SCK), SDA(also known as MOSI), RST(Reset pin), DC).
 Figure 1
 
-The OLED Screen operates with a range of 3.0V to 5V, in this project it will functioning with a 5V. 
+The screen operates with a range of 3.0V to 5V, in this project it will functioning with a 5V. 
 
 ## Breadbaord connection
 The breadbaord connection of the DS18B20 and the ESP8266 is seen in figure 2. 
