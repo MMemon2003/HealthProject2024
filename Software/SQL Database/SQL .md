@@ -25,3 +25,16 @@ Table of Registered Doctors in the database:
 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/682d0c72-ecab-492b-aad5-a5646614adbd)
 
+
+Patient database made in SQL-programming language 
+
+
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/ad0e8cd7-66bb-46ff-a4fd-0f3e47f98a02)
+
+
+
+
+
+
+
+
