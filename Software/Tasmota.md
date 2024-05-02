@@ -30,6 +30,12 @@ Figure 12 – Example of an SSID of tasmota -xxxxx-xxxxx.
  
 Figure 13 – Available networks Wi-Fi connection for tasmota
 
-7)	Wait for it, once an IP address shows, note it down as it will be the IP address to use tasmota each time with Node MCU(ESP8266). IP address used for tasmota: http://192.168.4.1. 
+7)	Wait for it, once an IP address shows, note it down as it will be the IP address to use tasmota each time with Node MCU(ESP8266). IP address used for tasmota: http://192.168.43.210. 
+
+
+
+
+Figure 15: Successful IP address connection to access Tasmota 
+
 8)	Config the Sensors, the sensors I had to configure were the DS18B20 at D4 to set to be DS18 x 20 and to configure the SEN0203 at A0, which was set to be an ADC Input. The successful connection of both sensors operating on Tasmota is shown in Figure 4 & 2. 
 9)	Click save and the sensors pops on the screen. 
