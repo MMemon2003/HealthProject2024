@@ -13,6 +13,8 @@ How to create the database
 6.	Click it, create a name, and click the down arrow to view tables, then create a new table and click apply.
 7.	After creating a table, select the rows and create a table starting off id where it always has a Primary Key and not null.
 8.	Click apply.
+
+
 Table of Registered Patients in the database:
 
 ![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/f7bbe1b9-32cd-4d0f-b831-41df2928384b)
