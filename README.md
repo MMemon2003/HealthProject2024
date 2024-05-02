@@ -6,11 +6,15 @@ The overall design of my project is a health gadget called the GP Virtual Health
 The hardware used in this project are microcontrollers such as ESP8266 also known as NodeMCU, Sensors used with Wifi in this project such as SEN0203 Heart rate sensor, DS18B20 Temperature Sensor, and sensors used with bluetooth in this project such as SBM70 Bluetooth Blood Pressure monitor, to allow the Bluetooth Blood pressure monitor, I will be using a bluetooth module called the HC05 Bluetooth module which will allow to connnect with the ESP8266 and the SBM70 Blood Pressure Monitor. The PCB is ordered using Eagle. The DS18B20 Temperature sensor and SEN0203 Heart rate sensor operates with the NodeMCU on the breadbaord successfully and Tasmota. 
 ## Software
 The software used in this project are Software are Node RED,SQL Database,Tasmota,PHP Servers,HTML, CSS and Java coded Websites, IP address to access websites,Microsoft Azure. Tasmota is ready with all Heart rate and Temperature sensor.
+
 ## Database
 The databases that i will be using is the SQL server. This database allows users and GP or Doctors to search previous or current data heallth information for the patient. It will be sending data from NodeRED and HTML Websites. 
+
 ## Security
-The security around this project, The HTML Websites will be secured by a login of the Patients or Doctor's ID and password and match the database infromation, if all goes well the HTML websites will be ready to opearte. 
+The security around this project, The HTML Websites will be secured by a login of the registered Patients and Doctor's ID databases, so if the patient or doctor is regsitered, it will go to the next page otherwise show a error.
+
 ## Report
-The Proposal Report is completelly and ready for presentation but whereas the actual reprort is in progress.
+The Proposal Report and Actual Report
+
 ## Presentation
 Done to proceed at 14.15
