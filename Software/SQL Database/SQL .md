@@ -1,8 +1,8 @@
 ## What is SQL?
-SQL is a Structed Query language that is used for relational databases with a collection of tables and columns etc. it is set to be a declarative programming language.
+SQL is a Structured Query language that is used for relational databases with a collection of tables columns etc. It is set to be a declarative programming language.
 
 ## Use of the database in this project
-The use of the SQL database in this project is to make security based database that is used to access the website, with two databases called Registered patients and Registered doctors. It will be used that only registered patients can only/open the website and if the patients is not registered, it will show the details entered and say "please, register yourself ".
+The use of the SQL database in this project is to make a security-based database that is used to access the website, with two databases called Registered Patients and Registered Doctors. It will be used so that only registered patients can only/open the website and if the patients are not registered, it will show the details entered and say "Please, register yourself ".
 
 ## How to create the database 
 1) Download MYSQL by the link https://www.mysql.com/downloads/
