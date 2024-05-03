@@ -2,7 +2,7 @@
 The GP Monitoring System is a virtual health device that utilizes health sensors such as body temperature, blood pressure, and heart rate. The collected information will be sent to a SQL database and will also generate a medical report. A report will be generated  to access access to patients health data over periods of  years.
 
 **GP Virtual Monitoring System Block Diagram:**
-![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/45ef4fc5-0882-4989-942d-14cb0207d5ab)
+![image](https://github.com/MMemon2003/HealthProject2024/assets/146339735/7e7c029a-46dc-4b62-b596-adc8ee90266f)
 
 
 ## GP Virtual Monitoring System Data Flow diagram
